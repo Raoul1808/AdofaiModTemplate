@@ -430,3 +430,6 @@ crashlytics-build.properties
 
 # Ignore packed release output
 *.zip
+
+# Ignore Rider user/project files
+.idea/
