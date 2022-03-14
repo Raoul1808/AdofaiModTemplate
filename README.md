@@ -31,7 +31,7 @@ different location.
 5. Change the Solution Configuration to `Release` by clicking the drop-down menu
    that says `Debug` at the top of the window.
 6. Press `Ctrl+Shift+B` to build the whole project.
-7. Run the `make_release.bat` script to create a mod release.
+7. Run the `make_release.bat` script (with a terminal that supports Unix commands such as `git bash`) to create a mod release.
 8. Upload the newly created `XXXXXXXX-1.0.0.zip` file online and share it!
 
 ## Updating the mod

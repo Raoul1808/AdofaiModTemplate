@@ -427,3 +427,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /UnityProject/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /UnityProject/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore packed release output
+*.zip
